@@ -34,7 +34,7 @@ const getVeggie = async () => {
     <div>  
             <Wrapper>
                 <h3>
-                  Our Vegetarian Picks
+                  Our Vegetarean Picks
                   <GiClick />
                   <BsArrowLeftRight />
                   </h3>
