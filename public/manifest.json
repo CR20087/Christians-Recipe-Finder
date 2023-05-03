@@ -1,0 +1,36 @@
+{
+  "scope": "/",
+  "disply": "browser",
+  "short_name": "Christian's Recipe Finder",
+  "name": "Christian's Recipe Finder",
+  "icons": [
+    {
+      "src": "Christian's Recipe finder logo.webp",
+      "sizes": "256x256",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "Christians_Recipe_finder_PNG_144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+  {
+    "src": "Christians_Recipe_finder_PNG_1_16x16.png",
+    "sizes": "16x16",
+    "type": "image/png",
+    "purpose": "any"
+  },
+  {
+    "src": "Christian's Recipe finder logo.ico",
+    "sizes": "256x256",
+    "type": "image/ico",
+    "purpose": "any"
+  }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

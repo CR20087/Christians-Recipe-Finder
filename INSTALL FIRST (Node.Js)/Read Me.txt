@@ -1,0 +1,3 @@
+To Run you application, Node.Js is needs to me installed. To install it use the installer for Windows 64bit (.msi), located in the current folder. 
+Node.Js allows for the app to run 'Npm' commands which is required to start the application. 
+Node.Js is a Javascript runtime runtime which builds network applications.

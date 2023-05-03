@@ -1,0 +1,25 @@
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+### `npm run electron:serve`
+
+Runs the app in the development mode.\
+Opens [http://localhost:3000](http://localhost:3000) in a windows browser application view.
+
+### `Recipe Application Start Shorcut` (Recommended)
+
+Runs the app by starting a local development server then running `npm run electron:serve` and opening the app in an electron browser view.
+
+The Christian's Recipe Finder Logo is a shortcut back to the home screen.
+
+As im using a free API plan from spoonacular I have 150 quota daily. To limit the possibility of the Daily limit being reached whislt the app is in use
+I have put in place features that check the local cache for data before preforming a request to save and be conservative of the quota.
+
+Manual start up the app are shown at the top of the page. Theese are commands run through terminal.
+
+The run the application the user must first have Node.Js this is because Node allows for web-based computer programs. Without Node the Startup Shortcut will open & close terminal once very quickly.
+This solution for exporting the app is NOT ideal but due to the complexities of exporting the app, this is the only method possible. 
+
+Enjoy your Recipe!
